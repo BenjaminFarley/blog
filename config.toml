@@ -1,0 +1,35 @@
+baseURL = "https://benfarley.dev/"
+languageCode = "en-gb"
+theme = "hyde-hyde"
+title = "Ben's Blog"
+enableEmoji = true
+
+# Theme Params
+[params]
+	author = "Benjamin Farley"
+    description = "Platform Engineer"
+	copyright = "Benjamin Farley"
+	authorimage = "/img/avatar.jpg"
+	showBuiltWith = true
+    dateformat = "Jan 2, 2006"
+
+	highlightjs = true
+	highlightjsstyle = "github"
+
+# Social Settings
+[params.social]
+	twitter = "Ben_Farley44"
+	github = "BenjaminFarley"
+
+## Main Menu
+[[menu.main]]
+	name = "Posts"
+	weight = 100
+	identifier = "posts"
+	url = "/posts/"
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
