@@ -1,9 +1,10 @@
-+++ 
-title = "The Beginning" 
-tags = ["Development"] 
-categories = ["Development"]
-date = "2019-03-01" 
-+++
+---
+title: "The Beginning"
+tags: ["Development"]
+categories: ["Development"]
+date: 2019-03-01T19:16:03Z
+highlight: true
+---
 
 ## Today I finally bought a Domain
 
